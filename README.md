@@ -157,6 +157,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Related Links
 
-- [UCP Documentation](https://ucp.dev/documentation/)
+- [UCP Documentation](https://ucp.dev/specification/overview/)
 - [UCP Specification](https://ucp.dev/specification/overview/)
 - [UCP Playground](https://ucp.dev/playground/)
