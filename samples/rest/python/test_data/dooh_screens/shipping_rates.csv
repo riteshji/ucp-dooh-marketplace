@@ -1,0 +1,3 @@
+id,country_code,service_level,price,title
+instant-activation,default,standard,0,Instant Activation (Digital Delivery)
+priority-review,default,express,5000,Priority Creative Review ($50)

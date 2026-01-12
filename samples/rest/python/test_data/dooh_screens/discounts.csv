@@ -1,0 +1,5 @@
+code,type,value,description
+LAUNCH20,percentage,20,20% Launch Discount
+BULK10,percentage,10,10% Multi-Screen Discount
+FIRST500,fixed_amount,50000,$500 First Campaign Credit
+AGENCY15,percentage,15,15% Agency Partner Discount
