@@ -21,7 +21,7 @@ from services.ucp_client import UCPClient, LogEntry
 
 # Page config
 st.set_page_config(
-    page_title="DOOH Marketplace - UCP Demo",
+    page_title="Using UCP for DOOH Marketplace",
     page_icon="📺",
     layout="wide",
     initial_sidebar_state="expanded"
