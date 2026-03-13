@@ -2,14 +2,14 @@
 UCP Client with Logging Support for Streamlit UI
 
 This client wraps UCP API calls and provides logging callbacks
-for displaying execution steps in the UI.
+for displaying execution steps in the UI. 
 """
 
 import uuid
 import httpx
 from dataclasses import dataclass, field
 from typing import Optional, Callable, Any
-from datetime import datetime
+from datetime import datetime 
 
 
 @dataclass
